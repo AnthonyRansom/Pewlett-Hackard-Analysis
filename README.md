@@ -29,13 +29,14 @@ Looking at the results of the analysis the following has been determined:
 ## Summary
 
 ### Important Facts
+Looking at the result of the analysis the following important facts have been determined:
  - 72,458 roles will need to be filled as employees start to retire
  - There are more employees retiring than there are staff who meet the mentorship eligibility meaning there is enough capacity for retiring employees to mentor the next generation
  
 ### Further Analysis
 
 Additional queries can be executed against the dataset to provide more insight into the "silver Tsunami":
- - the following query shows how many employees will be retiring each year over the next four years so that hiring and mentorship can be planned accordingly
+ - The following query shows how many employees will be retiring each year over the next four years so that hiring and mentorship can be planned accordingly
 ![retiring_peryear_count](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_peryear_count.PNG)
 ![retiring_peryear_result](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_peryear_result.PNG)
  
