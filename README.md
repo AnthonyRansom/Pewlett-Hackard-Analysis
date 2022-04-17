@@ -29,7 +29,7 @@ Looking at the results of the analysis the following has been determined:
 ## Summary
 
 ### Important Facts
-Looking at the result of the analysis the following important facts have been determined:
+Looking at the results of the analysis the following important facts have been determined:
  - 72,458 roles will need to be filled as employees start to retire
  - There are more employees retiring than there are staff who meet the mentorship eligibility meaning there is enough capacity for retiring employees to mentor the next generation
  
