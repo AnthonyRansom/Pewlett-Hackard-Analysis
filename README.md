@@ -40,6 +40,6 @@ Additional queries can be executed against the dataset to provide more insight i
 ![retiring_peryear_count](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_peryear_count.PNG)
 ![retiring_peryear_result](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_peryear_result.PNG)
  
- - The employees that are retiring can also be grouped by the department and save to a new table in order to determine which departments are affected by the "silver tsunami". 
+ - The employees that are retiring can also be grouped by the department and saved to a new table in order to determine which departments are affected by the "silver tsunami". 
 	Looking at the below table the Development and production departments are the most impacted by the number of employees retiring.
 ![retiring_departments](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_departments.PNG)
