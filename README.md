@@ -17,13 +17,13 @@ in order to plan for retiring staff to start training eligible staff.
 
 Looking at the results of the anaylisis the following has been determined:
 ### Retiring Employees:
-![retiring_titles]("/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/retiring_titles.PNG")
+![retiring_titles](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_titles.PNG)
  - There is a total of 72,458 of 300,024 staff retiring
  - The majority of staff leaving hold Senior Engineer and Senior Staff titles which consists of 70% of the total employees that will be retiring
 
  
 ### Employees Eligible for Mentorship
-![mentorship_eligible_count](/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/mentorship_eligible_count.PNG)
+![mentorship_eligible_count](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligible_count.PNG)
  - There are 1,549 employees who can be mentored across various titles making up only 2% of the number of employees retiring
  - The majority of staff who can be mentored hold the Senior Staff and Engineer titles
 
@@ -37,9 +37,9 @@ Looking at the results of the anaylisis the following has been determined:
 
 Additonal queries can be executed against the dataset to provide more insight into the the "silver Tsunami"
  - the following query will shows how many empoyees will be retiring each year over the next comiong four years so that hiring and mentorship can be planned accordingly
-![retiring_peryear_count](/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/retiring_peryear_count.PNG)
-![retiring_peryear_result](/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/retiring_peryear_result.PNG)
+![retiring_peryear_count](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_peryear_count.PNG)
+![retiring_peryear_result](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_peryear_result.PNG)
  
  - The employees that are retiring can also be grouped by the department they are allocated to in order to determine which departments are affected by the "silver tsunami" than others. 
 	which looking at the below table the Development and production departments are the most impacted by the number of employees retiring.
-![retiring_departments](/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/retiring_departments.PNG)
+![retiring_departments](/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_departments.PNG)
