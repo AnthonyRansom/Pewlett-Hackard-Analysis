@@ -17,7 +17,7 @@ in order to plan for retiring staff to start training eligible staff.
 
 Looking at the results of the anaylisis the following has been determined:
 ### Retiring Employees:
-![retiring_titles](/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/retiring_titles.PNG)
+![retiring_titles]("/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/retiring_titles.PNG")
  - There is a total of 72,458 of 300,024 staff retiring
  - The majority of staff leaving hold Senior Engineer and Senior Staff titles which consists of 70% of the total employees that will be retiring
 
